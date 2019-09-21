@@ -1,0 +1,5 @@
+a = as.numeric(readline(prompt="Decimal acá: "))
+b = a - as.integer(a)
+print(a)
+print(b)
+print(as.integer(a))
