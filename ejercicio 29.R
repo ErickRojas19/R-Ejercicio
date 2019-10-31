@@ -1,4 +1,4 @@
-n = as.integre(readline(prompt="Digite un número: "))
+n = as.numeric(readline(prompt="Digite un número: "))
 if(n>0 &&  n %% 2 <- 0){
 print("El numero es par positivo")
 } else{  
